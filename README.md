@@ -1,5 +1,7 @@
-# philosophy-map
-A map of my influences and journey from philosophy and literature.
+I have been greatly influenced through the years by different novels and philosophical "ramblings" I've read. Here I've assembled a map of the most influential authors and works.
+I hope that by observing, someone else will be motivated to read these wonderful ideas.
+
+Updated 2024-03-02
 
 ```mermaid
 graph TD;
